@@ -1,4 +1,5 @@
-![Alt text]([https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp4YjBtb2Z4ZTV2c24xeXB1bnN5enBjZWFzNHpjaGNuZHJvd21qYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp))
+![Alt text](https://github.com/techyorzl/techyorzl/blob/main/assets/gify.gif)
+
 
 
 
