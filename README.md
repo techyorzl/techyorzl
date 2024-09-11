@@ -1,4 +1,4 @@
-![GIF](https://github.com/techyorzl/techyorzl/blob/master/gify.gif)
+<div align="center"> <img src="https://github.com/techyorzl/techyorzl/blob/master/gify.gif" alt = "" /> </div>
 
 
 
