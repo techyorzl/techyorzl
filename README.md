@@ -1,4 +1,4 @@
-![Alt text](https://github.com/techyorzl/techyorzl/blob/main/assets/gify.gif)
+![GIF](https://github.com/techyorzl/techyorzl/blob/master/gify.gif)
 
 
 
