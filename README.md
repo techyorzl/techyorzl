@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techyorzl" alt="techyorzl" /></a> </p>
 
-- 🔭 I’m currently working on **WeathWeb**
+- 🔭 I’m currently working on **Meteorion**
 
 - 🌱 I’m currently learning **Hugging Face, LangChain**
 
