@@ -3,8 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">Math Maven & ML Explorer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Old+Uyghur&pause=1000&color=990011&background=FCF0EF00&center=true&vCenter=true&width=435&lines=Hello+there%2C+I+am+Ayush!!;How's+your+day+treating+you+today%3F%3F;I+have+a+passion+for+Mathematics.;I+am+an+emerging+MLOps+Engineer.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techyorzl&label=Profile%20views&color=0e75b6&style=flat" alt="techyorzl" /> </p>
 
