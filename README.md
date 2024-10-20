@@ -1,5 +1,12 @@
 <h1 align="left">Hello there! I'm Ayush! 👋</h1>
 
+<hr></hr>
+<ul>
+  <li>I'm currently learning <strong>Deployment and Cloud Tech. </strong></li>
+  <li>I like probing on <strong>Research Papers.</strong></li>
+  <li>I love to create <strong>stuff from Scratch!</strong></li>
+  <li>Fun Fact: There's a planet where it rains glass sideways.</li>
+</ul>
 
 <h3 align="center">Languages:</h3>
 <p align="center">
