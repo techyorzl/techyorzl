@@ -4,7 +4,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=30&pause=1&color=F7ECC3&repeat=false&random=true&width=435&lines=Namaste%2C+Ayush+here!" alt="Typing SVG" /></a>
 </p>
-
 <hr></hr>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/techyorzl/techyorzl/blob/master/gifs/1936.gif">
 <ul>
