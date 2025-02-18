@@ -86,11 +86,9 @@
 
 <h3 align="center">Currently Learning:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/rust-programming?style=for-the-badge&logo=rust&logoColor=white&labelColor=black&color=black">
   &nbsp;
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=black" alt="Airflow Badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark Badge"/>
   &nbsp;
