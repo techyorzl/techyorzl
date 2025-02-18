@@ -39,7 +39,7 @@
     &nbsp;
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge"/>
     &nbsp;
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img alt="FastAPI Badge" src="https://img.shields.io/badge/fast-api?style=for-the-badge&logo=FastAPI&logoColor=%23009688">
     &nbsp;
   <img src="https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=black" alt="Prefect Badge"/>
     &nbsp;
